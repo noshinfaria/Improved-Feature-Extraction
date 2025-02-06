@@ -1,4 +1,4 @@
-Leveraging Multi-Feature Fusion for Fingerprint Verification Using Siamese Networks
+<h1 align="center">Leveraging Multi-Feature Fusion for Fingerprint Verification Using Siamese Networks</h1>
 Project Overview
 
 This project implements a hybrid fingerprint verification system using a combination of SIFT (Scale-Invariant Feature Transform) and CNN (Convolutional Neural Networks) features, processed through a Siamese Network. The system aims to improve the robustness and accuracy of fingerprint verification, especially in noisy or low-quality images.
